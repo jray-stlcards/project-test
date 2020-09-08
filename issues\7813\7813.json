@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 2,
+    "Custom": "",
+    "Description": "Upon enabling it does not jiggle, but rather starts pressing right mouse at about the same frequency as 1.4.7 would jiggle.  \n\nGoing back to 1.4.7, it works normally.\n\nThis is on a Win7 64 bit machine.",
+    "LastUpdatedDate": "2014-04-24T10:26:51.927-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "mousejiggler",
+    "ReportedDate": "2014-04-22T05:07:56.877-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Presses right mouse instead of jiggling",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 1,
+    "Id": 7813
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Fixed in 1.6, going up later today.",
+      "PostedDate": "2014-04-24T09:06:10.99-07:00",
+      "Id": 143551
+    },
+    {
+      "Message": "Wow, thank you for the quick response!  Works great now.\r\n\r\nThank you also for sharing this util!",
+      "PostedDate": "2014-04-24T10:26:51.927-07:00",
+      "Id": 143552
+    }
+  ]
+}

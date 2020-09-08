@@ -1,0 +1,45 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 1,
+    "Custom": null,
+    "Description": "Is it possible to have a version suitable for later servers that does not have .net 2 installed by default (Server 2012 R2 and later for example)?",
+    "LastUpdatedDate": "2017-08-31T10:15:03.33-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "mousejiggler",
+    "ReportedDate": "2017-01-27T08:08:29.653-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": ".net 4.x support",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 2,
+    "Id": 7816
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Yes please!",
+      "PostedDate": "2017-08-31T10:15:03.33-07:00",
+      "Id": 208802
+    }
+  ]
+}

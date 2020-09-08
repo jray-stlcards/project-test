@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "Fixed in 1.1.\r\n\r\n(Note to johnclayton: Although I rejected your patch, just FYI, I ended up going that way to fix it in the end anyway.  Most elegant solution, after the one I thought of going for didn't work out.  Just so you know.)",
+    "ClosedDate": "2010-04-14T15:28:39.11-07:00",
+    "CommentCount": 0,
+    "Custom": "",
+    "Description": "If you try to run this on a 64-bit version of Windows it crashes.",
+    "LastUpdatedDate": "2013-05-16T04:50:49.457-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "mousejiggler",
+    "ReportedDate": "2010-03-01T11:28:20.487-08:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Crashes on 64-bit OS",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 4050
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

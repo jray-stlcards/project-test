@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "1312190",
+    "ThreadId": "569493",
+    "Html": "I like this tool, but I find the constant movement makes it difficult to control the mouse precisely.  Could you add an argument to set the jiggleTimer.Interval?\r<br />\nthanks, Rob<br />\n",
+    "PostedDate": "2014-10-10T07:28:32.95-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1319192",
+    "ThreadId": "569493",
+    "Html": "I second this request! I only need it to jiggle every 10 minutes or so and the constant jiggle causes issues with another app that records mouse usage, even in zen mode. Thanks!<br />\n",
+    "PostedDate": "2014-11-04T16:47:57.68-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1320264",
+    "ThreadId": "569493",
+    "Html": "I'll put it on the list for the 1.7 release.<br />\n",
+    "PostedDate": "2014-11-08T07:09:20.833-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

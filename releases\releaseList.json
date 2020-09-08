@@ -1,0 +1,121 @@
+[
+  {
+    "Id": "0",
+    "Name": "MouseJiggler 1.5",
+    "DevelopmentStatus": "Stable",
+    "Description": "Now includes the -m/--minimize switch to start minimized.\n\nIs now distributed as an unzipped executable, since distributing it in compressed format proved troublesome.\n\nFor easiest installation, MouseJiggle is also distributed as a ClickOnce package - just click to launch -\n\n[url:http://arkane-softwaredeployment.azurewebsites.net/mousejiggler/]\n\n(Warning: Using the command-line switches with the ClickOnce version will require making a new shortcut to the file located somewhere under your user profile, in the appropriate \\AppData\\Local\\Apps subfolder.  If you plan on doing so extensively, we recommend downloading the binary and installing it yourself.)",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2013-08-24T11:21:22.9-07:00",
+    "Files": [
+      {
+        "Id": "81b8c7ce-7b97-4e9d-b894-6a505f8f2488",
+        "FileName": "MouseJiggle.exe",
+        "Url": "./0/81b8c7ce-7b97-4e9d-b894-6a505f8f2488",
+        "Type": "Application",
+        "UploadDate": "2013-08-24T11:21:22.76-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "1",
+    "Name": "MouseJiggle-1.4",
+    "DevelopmentStatus": "Stable",
+    "Description": "Fixes the buggy minimize functionality in 1.3 (seriously, I must have been smokin' something) and adds a -z/--zen switch to force zen jiggling on.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2013-01-21T03:08:48.733-08:00",
+    "Files": [
+      {
+        "Id": "cb3476c7-49ab-4473-b90e-f91a2060c3be",
+        "FileName": "MouseJiggle-1.4.7z",
+        "Url": "./1/cb3476c7-49ab-4473-b90e-f91a2060c3be",
+        "Type": "Application",
+        "UploadDate": "2013-01-21T03:08:48.61-08:00"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "Name": "MouseJiggle-1.3",
+    "DevelopmentStatus": "Stable",
+    "Description": "This adds the much-requested minimize-to-tray feature to Mouse Jiggler.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2012-11-02T07:08:16.947-07:00",
+    "Files": [
+      {
+        "Id": "2a2c1832-69d9-4145-83c8-c73c177bf454",
+        "FileName": "MouseJiggle-1.3.zip",
+        "Url": "./2/2a2c1832-69d9-4145-83c8-c73c177bf454",
+        "Type": "Application",
+        "UploadDate": "2012-11-02T07:08:16.617-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "Name": "MouseJiggle-1.2",
+    "DevelopmentStatus": "Stable",
+    "Description": "This release adds to the features of 1.1 a bug fix to stop cursor drift on x64 systems, instructions for use in the About box, and the capability (off by default) of \"Zen jiggling\" - sending messages which cause the system to believe the mouse is moving, thus preventing screensaver activation, etc., but without actually causing any movement.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2010-08-01T17:21:36.103-07:00",
+    "Files": [
+      {
+        "Id": "451502b9-0de2-4ed5-a8f1-9ef3abf7ffd6",
+        "FileName": "MouseJiggle-1.2.zip",
+        "Url": "./3/451502b9-0de2-4ed5-a8f1-9ef3abf7ffd6",
+        "Type": "Application",
+        "UploadDate": "2010-08-01T17:21:35.993-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "4",
+    "Name": "MouseJiggle-1.1",
+    "DevelopmentStatus": "Stable",
+    "Description": "1.1 release of Mouse Jiggler, now with x64 compatibility and the ability to start jiggling on run with the --jiggle or -j command-line switch.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2010-04-14T15:24:35.497-07:00",
+    "Files": [
+      {
+        "Id": "ae12911f-a64a-4c58-aa64-beb82f243d29",
+        "FileName": "MouseJiggle-1.1.zip",
+        "Url": "./4/ae12911f-a64a-4c58-aa64-beb82f243d29",
+        "Type": "Application",
+        "UploadDate": "2010-04-14T15:22:56.79-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "5",
+    "Name": "MouseJiggle-1.0",
+    "DevelopmentStatus": "Stable",
+    "Description": "The first, and so far only, release of MouseJiggler.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-03-18T19:31:09.78-07:00",
+    "Files": [
+      {
+        "Id": "f499b635-bacb-4c10-a041-72c5cce49b56",
+        "FileName": "MouseJiggle-1.0.zip",
+        "Url": "./5/f499b635-bacb-4c10-a041-72c5cce49b56",
+        "Type": "Application",
+        "UploadDate": "2009-03-18T19:31:09.64-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "6",
+    "Name": "MouseJiggle-1.6",
+    "DevelopmentStatus": "Stable",
+    "Description": "Updated version - single-instance, plus bug fixes.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2014-04-24T09:31:51.297-07:00",
+    "Files": [
+      {
+        "Id": "76201e2f-4111-4845-8fdf-0a0ae2ae5e20",
+        "FileName": "MouseJiggle.exe",
+        "Url": "./6/76201e2f-4111-4845-8fdf-0a0ae2ae5e20",
+        "Type": "Application",
+        "UploadDate": "2014-04-24T09:31:51.157-07:00"
+      }
+    ]
+  }
+]

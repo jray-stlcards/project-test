@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1149865",
+    "ThreadId": "483797",
+    "Html": "as the title, in windows 8, when the touch mode is on going , or there is no real mouse message post to system, the cursor will hidden. do we have any way to make the cursor show at the above situation ?\r<br />\n<br />\nthanks for any help. <br />\n",
+    "PostedDate": "2014-01-06T01:26:12.583-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1237604",
+    "ThreadId": "483797",
+    "Html": "Unfortunately, I don't seem able to reproduce this situation. When I test it on my Win8 machine, the mouse cursor reappears as expected on the next &quot;jiggle&quot; after a touch, both in regular and zen jiggle mode.\r<br />\n<br />\nApologies,\r<br />\n<br />\nAlistair<br />\n",
+    "PostedDate": "2014-04-24T08:39:27.507-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

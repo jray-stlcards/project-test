@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "505415",
+    "ThreadId": "230429",
+    "Html": "<p>Just wondering if Mouse Jiggler still runs if a user &quot;Locks&quot; their machine.&nbsp; Some folks may have a group policy that has their machine hibernate or sleep after certain periods of inactivity.&nbsp; I would assume that if Mouse Jiggler continues to operate after a user &quot;Locks&quot; their machine then the group policy would not take affect.</p>",
+    "PostedDate": "2010-10-11T07:09:27.22-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "847643",
+    "ThreadId": "230429",
+    "Html": "<p>It does not work if the screen is locked.&nbsp; I wish it would !!&nbsp; If I do not lock my PC it will stay on. if I lock it the policy kicks in and goes to sleep.</p>",
+    "PostedDate": "2012-06-11T13:55:58.807-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "898408",
+    "ThreadId": "230429",
+    "Html": "<p>Unfortunately, the design of Windows prevents this from working with the current Mouse Jiggler design. &nbsp;For security reasons - so that you can't, say, write a program that pretends to be the lock screen to steal passwords, or one that changes users' passwords automatically - the \"locked\" desktop, as well as the \"login\" desktop are structurally separated from the desktop the user sees and that his normal programs run on, and have separate input streams - and a normal application is only able to inject mouse movements into the input stream for the user's desktop, not that of the login or locked desktop.</p>\r\n<p>It would be theoretically possible to get around this by having the \"jiggle\" injected by a device driver, rather than directly by the program, but I'm afraid I don't have the tools or background to develop Windows device drivers. &nbsp;(If anyone reading this does and would like to add such a driver to this project as an optional component, please do contact me!)</p>",
+    "PostedDate": "2012-08-11T12:39:09.037-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

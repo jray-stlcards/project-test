@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 4050,
+    "Title": "Crashes on 64-bit OS"
+  },
+  {
+    "Id": 6715,
+    "Title": "REQ Feature: Minimize to SysTray"
+  },
+  {
+    "Id": 7242,
+    "Title": "Minimize to Systray function leaves a window open"
+  },
+  {
+    "Id": 7709,
+    "Title": "Crashes after checking enable jiggle"
+  },
+  {
+    "Id": 7813,
+    "Title": "Presses right mouse instead of jiggling"
+  },
+  {
+    "Id": 7814,
+    "Title": "Wont jiggle when minimized"
+  },
+  {
+    "Id": 7815,
+    "Title": "Mousejiggler box disappeared!"
+  },
+  {
+    "Id": 7816,
+    "Title": ".net 4.x support"
+  }
+]

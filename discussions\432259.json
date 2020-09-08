@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "997612",
+    "ThreadId": "432259",
+    "Html": "For 1.5 would it be possible to create a switch that would allow the program to start minimized in the tray? I would like to run it at startup without having to click on the icon to make it minimize.  Thanks!<br />\n",
+    "PostedDate": "2013-02-06T17:01:31.047-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "998256",
+    "ThreadId": "432259",
+    "Html": "It may be a while before I get much of a chance to work on 1.5, but I'll put it on the feature list.<br />\n",
+    "PostedDate": "2013-02-07T17:07:38.36-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1084494",
+    "ThreadId": "432259",
+    "Html": "I'm working on this today; check back here tomorrow, and 1.5 should be here, complete with this feature.<br />\n",
+    "PostedDate": "2013-08-24T10:52:54.033-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1084881",
+    "ThreadId": "432259",
+    "Html": "Thank you!  This is awesome.<br />\n",
+    "PostedDate": "2013-08-26T05:08:56.93-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1222862",
+    "ThreadId": "432259",
+    "Html": "<em>EDIT</em><br />\n<br />\nWhoops! I just read the documentation and saw you added the switch ;-)<br />\n",
+    "PostedDate": "2014-03-14T11:23:26.997-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

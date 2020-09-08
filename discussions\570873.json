@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "1317545",
+    "ThreadId": "570873",
+    "Html": "When running the provided binary, the About box shows version 1.6.0.0.  However, when downloading the source code and running under Visual Studio, the About box shows version 1.5.0.0.  Are there commits/pushes missing in the source code repository?<br />\n",
+    "PostedDate": "2014-10-29T21:27:08.29-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1320266",
+    "ThreadId": "570873",
+    "Html": "Yeah, this repository's a little behind due to some sync troubles. You can get the latest source from github, here:\r<br />\n<br />\n<a href=\"https://github.com/cerebrate/mousejiggler\" rel=\"nofollow\">https://github.com/cerebrate/mousejiggler</a><br />\n",
+    "PostedDate": "2014-11-08T07:14:02.933-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1320631",
+    "ThreadId": "570873",
+    "Html": "Thanks!<br />\n",
+    "PostedDate": "2014-11-10T10:21:44.02-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

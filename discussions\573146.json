@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1326103",
+    "ThreadId": "573146",
+    "Html": "I loaded mouse jiggler. Now I want to uninstall it.  However, I cannot find it in Control Panel &gt; Uninstall.  Please tell me how to uninstall.\r<br />\n<br />\nThanks!<br />\n",
+    "PostedDate": "2014-11-25T13:11:51.023-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1328180",
+    "ThreadId": "573146",
+    "Html": "It doesn't have an installer (being too simple), which is why you can't find it in Add/Remove programs. Just delete the file from wherever you downloaded it to, and you're done.\r<br />\n<br />\nRegards,\r<br />\n<br />\nAlistair<br />\n",
+    "PostedDate": "2014-12-02T12:42:30.05-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

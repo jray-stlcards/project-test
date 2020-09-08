@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "994802",
+    "ThreadId": "431578",
+    "Html": "I downloaded the latest version 1.4 but when i run the program and click the info it says version 1.3.0.0 the jiggle feature only seems to work when no web pages are open or windows and it doesnt work when minimized to the taskbar. is there something i am doing wrong<br />\n",
+    "PostedDate": "2013-01-31T09:37:02.817-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "995278",
+    "ThreadId": "431578",
+    "Html": "Oops, forgot to change the version number, there.  I'll fix that in 1.5.\r<br />\n<br />\nUnfortunately, I can't seem to reproduce any of the other problems you're having, here.  Could you give me some more system information - your OS version, other programs you have running, that sort of thing?\r<br />\n<br />\nThanks.<br />\n",
+    "PostedDate": "2013-02-01T08:42:36.327-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

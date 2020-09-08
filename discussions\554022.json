@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "1277383",
+    "ThreadId": "554022",
+    "Html": "When I launch this within the RDP session, it doesn't seem to keep the session alive.<br />\n",
+    "PostedDate": "2014-07-24T09:00:34.457-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1352677",
+    "ThreadId": "554022",
+    "Html": "Yeah, I'm afraid that as it works by simulating relatively low-level [console session] input, it doesn't make it to the RDP session.\r<br />\n<br />\nAs far as I know, this is a Windows limitation and I don't have a workaround. If I find one, I'll post here, but I haven't yet.<br />\n",
+    "PostedDate": "2015-02-14T14:13:28.26-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1467392",
+    "ThreadId": "554022",
+    "Html": "A click function would solve this problem. Would you consider adding a function to click instead of move the mouse?<br />\n",
+    "PostedDate": "2016-03-19T20:45:29.207-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1468008",
+    "ThreadId": "554022",
+    "Html": "The problem isn't the type of input - move vs. click - the problem is where it is injected. The function that lets mouse jiggler simulate input injects it into the console (hardware-bound) session, because simply simulating input window messages doesn't reset the Windows inactivity timer. The equivalent for an RDP session would be injecting input into the incoming RDP stream, and to the best of my knowledge there is no function that permits this, I'm afraid.\r<br />\n<br />\n(As a further note on clicking, the reason that Mouse Jiggler simulates a small degree of mouse movement is because moving the mouse back and forth a few pixels is not guaranteed, but is nevertheless almost certain to be idempotent; i.e., without side effects, whatever happens to be on the screen.\r<br />\n<br />\nThis is <strong>very much not the case</strong> for a click, which will trigger selection or action if something happens to be beneath it, or if the mouse drifts, is knocked, etc., while the computer is unattended so that something <strong>is</strong> underneath it. And that means, despite however many warnings I put on it, that that's just an invitation to trouble and angry working-as-designed bug reports, so I can pretty much guarantee that that's never going to happen.)<br />\n",
+    "PostedDate": "2016-03-25T12:27:15.657-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

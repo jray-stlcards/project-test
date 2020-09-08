@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1446693",
+    "ThreadId": "645689",
+    "Html": "how would i run the application at startup and minimize <br />\n",
+    "PostedDate": "2015-10-01T06:40:37.67-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1455930",
+    "ThreadId": "645689",
+    "Html": "Add the program to the Startup group, as per -\r<br />\n<br />\n<a href=\"http://www.sevenforums.com/tutorials/1401-startup-programs-change.html\" rel=\"nofollow\">http://www.sevenforums.com/tutorials/1401-startup-programs-change.html</a><br />\n<ul>\n<li>and edit the properties of the shortcut to include the -m argument. </li>\n</ul>\n",
+    "PostedDate": "2015-12-14T18:53:38.523-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

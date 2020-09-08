@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "1085189",
+    "ThreadId": "454601",
+    "Html": "The program should only allow a single instance to run.  Sometimes it is not obvious that an instance is running when it is minimized to the tray.<br />\n",
+    "PostedDate": "2013-08-26T20:35:48.147-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1085499",
+    "ThreadId": "454601",
+    "Html": "I'll put it on the list for 1.6.<br />\n",
+    "PostedDate": "2013-08-27T12:06:08.54-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1237618",
+    "ThreadId": "454601",
+    "Html": "Implemented in 1.6, going up later today.<br />\n",
+    "PostedDate": "2014-04-24T09:07:50.433-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

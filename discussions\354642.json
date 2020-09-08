@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "832531",
+    "ThreadId": "354642",
+    "Html": "\r\n<p>maybe make this a tray icon so it doesn't occupy a slot on the task bar ?</p>\r\n",
+    "PostedDate": "2012-05-05T10:08:52.173-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "867153",
+    "ThreadId": "354642",
+    "Html": "<blockquote style=\"border: solid .1em #ccc; font-style: italic; margin: .25em 1em 0 1em; padding: 0 .25em 0 .25em;\"><strong>frankhsueh wrote:</strong><br />\r\n<p>maybe make this a tray icon so it doesn't occupy a slot on the task bar ?</p>\r\n</blockquote>\r\n<p>I modified it so it is a tray icon.... how can i contribute it to the project?</p>",
+    "PostedDate": "2012-07-14T17:56:02.437-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "935708",
+    "ThreadId": "354642",
+    "Html": "<p>This is now implemented in Mouse Jiggler 1.3.</p>",
+    "PostedDate": "2012-11-02T07:09:37.727-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "989622",
+    "ThreadId": "354642",
+    "Html": "\r\n<p>Really, actually implemented properly in 1.4.</p>\r\n",
+    "PostedDate": "2013-01-21T03:12:06.52-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

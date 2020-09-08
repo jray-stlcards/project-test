@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1472184",
+    "ThreadId": "654236",
+    "Html": "I spent quite a bit of time, troubleshooting the use of sendinput to move the mouse in an application I am using, so when I came across this, I thought it would help solve my problems.  However, when I download and compile the source code in Visual Studio 2015 on Windows 7, everything runs and SendInput returns 1 as expected, but the mouse doesn't move (the same behavior I am seeing in my own program).  I have tried compiling both for x86 and 64 bit (64 bit will not run at all.. I presume the input structure size is different on 64 bit systems)\r<br />\n<br />\nWhen I run the executable, the mouse moves as expected.\r<br />\n<br />\nHas anyone else successfully compiled the source code and got it to work?<br />\n",
+    "PostedDate": "2016-05-02T09:51:39.15-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1472230",
+    "ThreadId": "654236",
+    "Html": "Sorry, there have been some code updates on the new source site (github) that I haven't synced back here yet. Try this:\r<br />\n<br />\n<a href=\"https://github.com/cerebrate/mousejiggler\" rel=\"nofollow\">https://github.com/cerebrate/mousejiggler</a><br />\n",
+    "PostedDate": "2016-05-02T14:58:48.65-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

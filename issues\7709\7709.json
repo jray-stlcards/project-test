@@ -1,0 +1,55 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2015-09-24T06:19:52.347-07:00",
+    "CommentCount": 3,
+    "Custom": "",
+    "Description": "Here's the stack trace:\n\nSee the end of this message for details on invoking \njust-in-time (JIT) debugging instead of this dialog box.\n\n************** Exception Text **************\nSystem.ComponentModel.Win32Exception: The operation completed successfully\n   at ArkaneSystems.MouseJiggle.Jiggler.Jiggle(Int32 dx, Int32 dy)\n   at ArkaneSystems.MouseJiggle.MainForm.jiggleTimer_Tick(Object sender, EventArgs e)\n   at System.Windows.Forms.Timer.OnTick(EventArgs e)\n   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)\n   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)\n\n\n************** Loaded Assemblies **************\nmscorlib\n    Assembly Version: 2.0.0.0\n    Win32 Version: 2.0.50727.5472 (Win7SP1GDR.050727-5400)\n    CodeBase: file:///C:/Windows/Microsoft.NET/Framework/v2.0.50727/mscorlib.dll\n----------------------------------------\nMouseJiggle\n    Assembly Version: 1.5.0.0\n    Win32 Version: 1.5.0.0\n    CodeBase: file:///S:/System%20Utilities/Misc/Mouse%20Jiggler%20v1.5/MouseJiggle.exe\n----------------------------------------\nSystem.Windows.Forms\n    Assembly Version: 2.0.0.0\n    Win32 Version: 2.0.50727.5468 (Win7SP1GDR.050727-5400)\n    CodeBase: file:///C:/Windows/assembly/GAC_MSIL/System.Windows.Forms/2.0.0.0__b77a5c561934e089/System.Windows.Forms.dll\n----------------------------------------\nSystem\n    Assembly Version: 2.0.0.0\n    Win32 Version: 2.0.50727.5467 (Win7SP1GDR.050727-5400)\n    CodeBase: file:///C:/Windows/assembly/GAC_MSIL/System/2.0.0.0__b77a5c561934e089/System.dll\n----------------------------------------\nSystem.Drawing\n    Assembly Version: 2.0.0.0\n    Win32 Version: 2.0.50727.5467 (Win7SP1GDR.050727-5400)\n    CodeBase: file:///C:/Windows/assembly/GAC_MSIL/System.Drawing/2.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll\n----------------------------------------\n\n************** JIT Debugging **************\nTo enable just-in-time (JIT) debugging, the .config file for this\napplication or computer (machine.config) must have the\njitDebugging value set in the system.windows.forms section.\nThe application must also be compiled with debugging\nenabled.\n\nFor example:\n\n<configuration>\n    <system.windows.forms jitDebugging=\"true\" />\n</configuration>\n\nWhen JIT debugging is enabled, any unhandled exception\nwill be sent to the JIT debugger registered on the computer\nrather than be handled by this dialog box.",
+    "LastUpdatedDate": "2015-09-24T06:19:52.347-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "mousejiggler",
+    "ReportedDate": "2013-12-13T10:42:05.333-08:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Fixed"
+    },
+    "Summary": "Crashes after checking enable jiggle",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 2,
+    "Id": 7709
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "I had an anti-malware/antiv-virus (COMODO) application running an a believe that's what caused this issue. Thanks.",
+      "PostedDate": "2013-12-15T06:08:35.993-08:00",
+      "Id": 143549
+    },
+    {
+      "Message": "Fixed in 1.6, going up later today.",
+      "PostedDate": "2014-04-24T09:06:44.583-07:00",
+      "Id": 143550
+    },
+    {
+      "Message": "Hey, @arkanesystems.\nMind if you set the status on this issue to 'resolved'?",
+      "PostedDate": "2015-09-22T12:44:23.25-07:00",
+      "Id": 190577
+    }
+  ]
+}

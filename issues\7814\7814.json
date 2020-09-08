@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 2,
+    "Custom": null,
+    "Description": "Mouse Jiggler works just fine on my computer IF and ONLY IF it is the selected/active window.  The second I minimize with the green arrow button, or open any window \"over\" it, the jiggling stops working.\r\n\r\nAny clue why this happens?\r\n\r\nFor What it is worth, I have tried other mouse jiggling type programs that say to do the same thing, and all of those act the same way.  Is there some computer setting I don't have correct?  Window 7 SP1.\r\n\r\n",
+    "LastUpdatedDate": "2016-08-29T09:12:30.227-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "mousejiggler",
+    "ReportedDate": "2016-08-22T11:34:36.277-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Wont jiggle when minimized",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 1,
+    "Id": 7814
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "I'm afraid I have not yet been able to reproduce this. Can you confirm whether you are running an x86 or x64 version of Windows, and also the version of Mouse Jiggler that you are using?",
+      "PostedDate": "2016-08-29T08:31:43.84-07:00",
+      "Id": 203793
+    },
+    {
+      "Message": "Running x64 Window 7\n\nI'm using the latest version you have on your download page. \n\nFor what it's worth, it isn't isolated to one computer. The same thing happens on a different computer in the same office.  (This is a work computer)\n\nCould there be some sort of IT setting blocking this?",
+      "PostedDate": "2016-08-29T09:12:30.227-07:00",
+      "Id": 203794
+    }
+  ]
+}
